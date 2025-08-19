@@ -1,3 +1,4 @@
+package ProgrammingElements.level1;
 public class AverageMarks {
     public static void main(String[] args) {
         int maths = 94;

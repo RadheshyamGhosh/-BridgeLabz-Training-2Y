@@ -1,3 +1,4 @@
+package ProgrammingElements.level1;
 public class ProfitLoss {
     public static void main(String[] args) {
         int costPrice = 129;
